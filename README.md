@@ -143,6 +143,13 @@ Les dashboards construits dans Power BI permettent une **analyse multidimensionn
 Projet réalisé dans le cadre du module **Entrepôt de Données**, avec un focus sur la **modélisation décisionnelle** et la **dataviz métier**.
 
 ---
+## 📊 Captures d'écran du dashboard
+
+Vous pouvez consulter toutes les captures d'écran dans ce fichier PDF :
+
+[📁 Voir le PDF des dashboards](./Dashboard_Churn.pdf)
+
+---
 
 ## 📜 Licence
 
